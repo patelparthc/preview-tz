@@ -1,95 +1,40 @@
-# Automatic App Landing Page
-**Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
+# TiffinEatz App Preview Page
+**Order Homemade Food Near You.**
 
-Designed for GitHub Pages for super easy set up. 
-
-🔧 Fork this repo
-
-🗝 Enter iOS App ID in `_config.yml`
-
-📲 Upload video preview or screenshot
-
-🎨 Customise site in `_config.yml` (no HTML/CSS)
-
-📝 Write Privacy Policy as markdown in `privacypolicy.md`
-
-🕒 Keep a changelog in `CHANGELOG.md`
-
-✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
-
-<img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
+TiffinEatz is a marketplace app connecting local home chefs ( “Kitchens”) with customers (“Patrons”). It is a new way to order fresh, homemade food cooked by the home chefs in your neighborhood. Discover local Kitchens in your community run by aspiring chefs, browse their unique menus, and order and enjoy different varieties of homemade food and Tiffine!
 
 
+Tired of eating monotonous restaurant food everyday? Why not order some fresh, authentic food prepared in a home kitchen near you? Using Tiffin Eatz, connect with others in your community, share interesting stories, learn about different cultures, and enjoy delicious food all while supporting the local economy. 
 
 
-## Quick Start
-
-### Step 1: Fork this repo.
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
-
-*Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.*
+Whether you are an aspiring chef or a home cook 👩‍🍳 👨‍🍳 who wants to showcase your culinary skills OR a hungry customer tired of eating boring restaurant food and would prefer eating some fresh homemade food made with love - THIS APP IS JUST FOR YOU!!
 
 
+a. Same Day As Well As Advanced Ordering
+Order upto a week in advance. Kitchens can set their flexible menus upto a week in advance and start accepting same day or future orders from Patrons. This helps both Patrons and Kitchens plan their week better.
 
-### Step 2: Enter iOS App ID in `_config.yml`
-Enter your iOS app ID in the `ios_app_id` field and commit your changes. Your site will automatically rebuild with your app icon, name, price and link to App Store.
 
-You can go on with customising almost anything in the `_config.yml` file. 
+b. Ordering Made Easy
+Patrons can easily find Kitchens near them, order food, and mark their favorite dishes/Kitchens to order again. Filter the offerings based on cuisine type and delivery type. Easily track the status of your orders, keep track of past orders, and more.  
 
-Things you can customise in `_config.yml`:
-- App Name
-- App Icon
-- App Description
-- App Price
-- App Store Link
-- Play Store Link
-- Press Kit Download Link
-- Cover Image
-- Cover Overlay Color
-- Background Color
-- Text Colors
-- iPhone Device Color
-- Your Name / Company Name
-- Link to Website
-- Social Links and Contact Info
-- Feature List (Title, text, icon)
+
+c. Designed Around Trust
+Patrons and Kitchens have the ability to review each other. This ensures quality experience for both.
+
+
+d. Easy To Use UI for Kitchens
+Kitchens get a very easy to use interface to set up their menu, add item availability for different dates, manage orders, and keep track of other activities easily. 
+
+
+Come join us and be a part of the new way of ordering food tiffin. Contact us at contact@tiffineatz.com for any questions. 
+
+
+Website: www.tiffineatz.com
 
 
 
-### Step 3: Add screenshot or video
-
-#### Adding a screenshot
-Upload a `.png` or `.jpg` of your app to the folder `assets/screenshot/`. The name does not matter. Be sure to delete the placeholder `yourscreenshot.png`.
-
-#### Adding video
-Upload your video to the folder `assets/videos/`. To have support for most browsers, you need to upload two files – one for Safari and one for Chrome/Firefox.
-
-Video formats supported by Chrome and Firefox:
-- `.webm`
-- `.ogg`
-
-Video formats supported by Safari:
-- `.mp4`
-- `.mov`
-
-#### Resolutions
-The videos and screenshots must have one of the following resolutions:
-- 828x1792
-- 1125x2436
-- 1242x2688
 
 
-
-### Step 4: Edit (or remove) Privacy Policy and Changelog
-Your site automatically includes pages for a Privacy Policy and a Changelog. Change the content of these pages by editing the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-In each of the markdown files, you can set the `include_in_header:` value to either `true` or `false`. This determines if the page is included in the top navigation.
-By default, only the Changelog is included in the top navigation. The title of the navigation item can also be edited, by editing the `title:` in each markdown file.
-
-If you need to, you can create additional markdown based pages just by creating an `.md` file like the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
-
-**Please note:** The Privacy Policy and Changelog provided are written using dummy text, so please adapt each of them for your own app.
-You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
 
 
 
